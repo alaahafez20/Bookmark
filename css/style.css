@@ -1,0 +1,35 @@
+h1{
+    font-size: 2rem;
+}
+h1,h6{
+    color: #AAA;
+}
+form{
+    background-color: #EEE;
+}
+.for-border{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+input{
+    margin: 0 auto;
+}
+label{
+    font-weight: 700;
+}
+.style{
+    display: flex;
+    justify-content: space-between;
+    background-color: #EEE;
+    padding: 2rem 2rem;
+    margin-bottom: 2rem;
+}
+.style p{
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+button:hover{
+    box-shadow: rgb(136, 136, 136) 2px 5px 3px 0px;
+}
+
+
